@@ -1,1 +1,1 @@
-First commit with Codecademy FS9!
+First commit!
